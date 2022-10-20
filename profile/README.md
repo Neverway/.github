@@ -1,5 +1,6 @@
 # Neverway
 website: https://neverway.github.io/index.html
+about: https://neverway.github.io/about.html
 
 __Main Projects__
 --
