@@ -1,7 +1,7 @@
 # Neverway
 website: https://neverway.github.io/index.html
 
-__Projects__
+__Main Projects__
 --
 001-HIDA
 <br />Repo:
