@@ -24,8 +24,8 @@ __Main Projects__
 <br />Repo:
 <br />Page:
 
-007-NUP
-<br />Repo: https://github.com/Neverway/007-NUP
+007-NUP/NLAB
+<br />Repo: https://github.com/Neverway/neverlab
 <br />Page: https://neverway.github.io/files/4_software/id000-nupdk/software.html
 
 008-CRTG
