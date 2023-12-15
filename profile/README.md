@@ -4,11 +4,14 @@ website: https://neverway.github.io/index.html
 __Riven Projects__
 --
 001-RvCr
+Riven Core
 <br />Repo: https://github.com/Neverway/RivenCoreUntiy
 <br />Repo: https://github.com/Neverway/RivenCoreUnreal
 
 002-DA (2023-2025)
+Divine Annihilation
 <br />Repo: https://github.com/Neverway/RivenCoreUntiy/DivineAnnihilation
 
 003-MidWen (2025-2027)
+Midnight Wendigo
 <br />Repo: https://github.com/Neverway/RivenCoreAnim/MidnightWendigo
