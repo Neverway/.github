@@ -4,7 +4,7 @@ website: https://neverway.github.io/index.html
 __Riven Projects__
 --
 001-RvCr
-<br />Repo: https://github.com/Neverway/RivenCoreUntiy
+<br />Repo: https://github.com/Neverway/RivenCoreUnity
 <br />Repo: https://github.com/Neverway/RivenCoreUnreal
 
 002-DA (2023-2025)
