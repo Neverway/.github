@@ -8,7 +8,7 @@ __Riven Projects__
 <br />Repo: https://github.com/Neverway/RivenCoreUnreal
 
 002-DA (2023-2025)
-<br />Repo: https://github.com/Neverway/RivenCoreUntiy/DivineAnnihilation
+<br />Repo: https://github.com/Neverway/DivineAnnihilation
 
 003-MidWen (2025-2027)
-<br />Repo: https://github.com/Neverway/RivenCoreAnim/MidnightWendigo
+<br />Repo: https://github.com/Neverway/MidnightWendigo
